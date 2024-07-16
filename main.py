@@ -1,1 +1,2 @@
-print("pythone first repo")
+
+print("successfully pushed first trial on github")
