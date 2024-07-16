@@ -1,2 +1,1 @@
-print("successfully pushed first trial on github")
-print("editting on browser")
+print("browser: delete & edit no running")
