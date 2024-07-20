@@ -7,4 +7,5 @@ print("editting locally")
 print("editting thirdly")
 print("merging locally")
 print("didn't manage to commit without pulling on run browser")
-
+print("other branch at the same time")
+print("------------------------")
