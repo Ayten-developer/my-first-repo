@@ -1,3 +1,1 @@
-print("overdifjdskjflk")
-print("flkjfkljalkjflkj")
-print("djflkadjflkjakldjf")
+print("A overrides main")
