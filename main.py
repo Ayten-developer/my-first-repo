@@ -1,2 +1,1 @@
-print("main")
-print("A")
+print("A overrides main")
