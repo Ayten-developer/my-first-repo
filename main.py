@@ -1,2 +1,3 @@
-print("Branch B types")
 
+kokok
+print("Branch A typesss")
