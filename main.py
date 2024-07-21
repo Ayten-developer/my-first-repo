@@ -1,2 +1,2 @@
-print("Branch B typesss")
+print("Branch B types")
 
